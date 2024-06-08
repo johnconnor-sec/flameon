@@ -5,6 +5,6 @@ A simple python script that uses flameshot to take a screenshot every few second
 
 `sudo apt install flameshot`
 
-#### Run
+## Run
 
 `python3 flameon.py`
